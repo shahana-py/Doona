@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "518203824425",
+    "project_id": "doona-4ac15",
+    "storage_bucket": "doona-4ac15.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518203824425:android:63e767a35472280a9dff38",
+        "android_client_info": {
+          "package_name": "com.example.doona"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB212wPj_gHz0ZRKjWG-_LLo989qti2aVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
